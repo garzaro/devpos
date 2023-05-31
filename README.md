@@ -1,2 +1,2 @@
 # devpos
-Minhas anotações e estudo para devops
+Minhas anotações e estudo devops
